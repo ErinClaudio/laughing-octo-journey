@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{92A4CB63-265F-441C-BCBC-045BFCCBF69B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20201014152131_initial.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="2" Column="21" />
+      <File FileName="Migrations/20201014152131_initial.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YoutubeTestV2" expanded="True">
+            <Node name="YoutubeTestV2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20201014152131_initial.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.YoutubeTestV2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
